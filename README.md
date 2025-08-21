@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">Mechanical Engineering @ BIT Mesra , Tech Enthusiast(Data Analytics,ML,Web Developer etc.)</h3>
+<h3 align="center">https://pixelpiratey.github.io/Analyst_portfolio1/</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
